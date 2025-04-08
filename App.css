@@ -1,0 +1,17 @@
+.container {
+    padding: 2rem;
+    font-family: sans-serif;
+  }
+  
+  .opportunity-list {
+    display: grid;
+    gap: 1rem;
+  }
+  
+  .opportunity-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
